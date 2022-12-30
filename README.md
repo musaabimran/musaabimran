@@ -1,3 +1,2 @@
-# Introduction
-# My Personal Repository
-# snkjnjfasnlgngjngajgnkjga
+Introduction
+My Personal Repository

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musaab Imran</h1>
-- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **about Cyber Security**
-
-- 👨‍💻 All of my projects are available at [https://github.com/musaabimran](https://github.com/musaabimran)
 
 - 💬 Ask me about **Cyber Security & Digital Forensics**
 

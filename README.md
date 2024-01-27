@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Digital Forensics**
+- 💬 Ask me about **Cyber Security & Digital Forensics**
 
 - 📫 Reach me at **musabimran2001@gmail.com**
 

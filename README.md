@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning **about Cyber Security**
 
-- 💬 Ask me about **Cyber Security & Digital Forensics**
-
-- 📫 How to reach me **musaabimran2001@gmail.com**
+- 📫 Reach me at **musaabimran2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

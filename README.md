@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musaab Imran</h1>
-<h3 align="center">A machine learning engineer solving real-world problems with scalable AI.</h3>
+<h3 align="center">A Machine Learning Engineer solving real-world problems with scalable AI.</h3>
 
 - 📫 How to reach me **musaabimran2001@gmail.com**
 
